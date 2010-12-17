@@ -1,0 +1,11 @@
+
+#Vim editor for ruby on rails development using rails.vim
+
+Downloaded From : git://gitorious.org/ubuntu-on-rails/rails-vim.git
+
+
+## Installation
+
+    git clone git://github.com/sandipransing/rails_vim.git ~/.vim
+
+any problems in using? san2821 at gmail.com or sandip at joshsoftware.com
